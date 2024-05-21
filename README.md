@@ -19,7 +19,7 @@ I am a **Back-End Developer** specializing in **Java** and **Spring**.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyun1024&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?count_private=true&username=hyun1024&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1024&layout=compact&theme=radical)
 
 ### Algorithm Platforms
