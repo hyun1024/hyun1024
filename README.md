@@ -1,8 +1,9 @@
-# 👋 Welcome to My GitHub!
+# 👋 개발에 진심인 개발자이고싶은 개발자
 
 ## About Me
 
-I am a **Back-End Developer** specializing in **Java** and **Spring**.
+개발관련 토론하는 거 좋아합니다.
+주제에 구애받지 않고, 생각할 거리가 던져지면 재미있게 토론할 준비가 되어있어요!
 
 ## 🛠️ Tech Stack
 
